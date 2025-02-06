@@ -1,3 +1,5 @@
+
+yes
 "This is shine "
 ls
 date
